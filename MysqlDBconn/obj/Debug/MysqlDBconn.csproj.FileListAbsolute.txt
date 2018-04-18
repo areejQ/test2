@@ -1,0 +1,11 @@
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\bin\Debug\MysqlDBconn.exe.config
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\bin\Debug\MysqlDBconn.exe
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\bin\Debug\MysqlDBconn.pdb
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\bin\Debug\MySql.Data.DLL
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\bin\Debug\mysql.web.dll
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\obj\Debug\MysqlDBconn.csprojResolveAssemblyReference.cache
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\obj\Debug\MysqlDBconn.Form1.resources
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\obj\Debug\MysqlDBconn.Properties.Resources.resources
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\obj\Debug\MysqlDBconn.csproj.GenerateResource.Cache
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\obj\Debug\MysqlDBconn.exe
+C:\Users\areej\Documents\Visual Studio 2013\Projects\MysqlDBconn\MysqlDBconn\obj\Debug\MysqlDBconn.pdb
